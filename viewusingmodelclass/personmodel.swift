@@ -1,4 +1,4 @@
-//
+﻿//
 //  personmodel.swift
 //  viewusingmodelclass
 //
@@ -17,3 +17,4 @@ class person
     var id:String?
     var name:String?
 }
+sds
